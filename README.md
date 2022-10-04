@@ -1,6 +1,6 @@
+![image](https://user-images.githubusercontent.com/102557966/193695128-db1ccccb-72e9-45f0-926d-8cac44ca9ecd.png)
 
 
-![](./src/img/capa-readme2.png)
 
 ---
 
@@ -32,8 +32,8 @@
 ##  🎯Objetivo do Projeto
 
 Este é um projeto de Front-end, baseado em aplicativos de delivery de comida, desenvolvido no bootcamp da Labenu. Por ser o último projeto do módulo de Front-end o principal objetivo é estudar e compreender todas tecnologias utlizadas nesse módulo, sendo elas: 
-* _React_
 * [API](https://documenter.getpostman.com/view/7549981/SWTEdGtT#e6c05246-7dcc-483c-95a3-269792e59c37)
+* _React_
 * _Javascript_
 * _HTML_
 * _Styled-components_
@@ -61,31 +61,42 @@ Este é um projeto de Front-end, baseado em aplicativos de delivery de comida, d
 ## 📷 Prints Páginas
 
 ## HOME e LOGIN
-![](./src/img/home-login.png)
+
+![image](https://user-images.githubusercontent.com/102557966/193705097-6ccf8d79-73a0-4f25-a21a-a0ed23d8f90f.png)
+
+
+
 
 ## Cadastro Dados e Endereço
-![](./src/img/name-endereco.png)
+
+![image](https://user-images.githubusercontent.com/102557966/193704317-ece92a5e-9b44-43c5-97b6-b042d60ee0f1.png)
+
 
 ## Feed e Feed filtro Busca por nome
-![](./src//img/feed1.0.JPG)
+![image](https://user-images.githubusercontent.com/102557966/193705380-763add56-140e-43b7-ae86-e15ee94884a7.png)
+
+
 
 ## Feed filtro por tipo de restaurante e mensagem se não ouver nome procurado
-![](./src/img/feed2.0.JPG)
+![image](https://user-images.githubusercontent.com/102557966/193705514-0170d1fc-4d81-4334-8ed7-9a8b577db33f.png)
+
+
 
 ## Feed com pedido em andamento
+![image](https://user-images.githubusercontent.com/102557966/193706522-f006d322-af73-433d-a6dd-7239ef57ddc0.png)
 
-![](./src/img/feed-banner.png)
 
-## Carrinho com pedido
-![](./src/img/cart.JPG)
 
-## Carrinho vazio
-![](./src/img/cart-vazio.png)
+## Carrinho com pedido e Carrinho vazio
+![image](https://user-images.githubusercontent.com/102557966/193706685-c2f47459-71cf-4526-aefa-b5482889a33b.png)
 
-## Perfil com histórico
-![](./src/img/perfil.png)
 
-## Edição do perfil 
-![](./src/img/edit-profile.JPG)
+## Perfil com histórico de pedidos
+![image](https://user-images.githubusercontent.com/102557966/193707272-d3190929-9326-4283-a66f-c0c7f89970cf.png)
+
+## Edição do perfil e endereço
+![image](https://user-images.githubusercontent.com/102557966/193707380-ad79b5c0-40e4-4268-9403-a553a5be9b83.png)
+
+
 
 
